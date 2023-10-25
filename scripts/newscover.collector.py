@@ -1,7 +1,7 @@
 import argparse 
 import json
 import os
-from newscover import fetch_latest_news
+from src.newscover import fetch_latest_news
 
 def main():
     parser = argparse.ArgumentParser()

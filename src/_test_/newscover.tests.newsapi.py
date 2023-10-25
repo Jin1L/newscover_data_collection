@@ -1,6 +1,6 @@
 import unittest
 import datetime
-from newscover import fetch_latest_news
+from src.newscover import fetch_latest_news
 
 API_KEY=""
 
